@@ -1,0 +1,176 @@
+
+body{
+    margin: 0%;
+    font-family: "Poppins", sans-serif
+}
+.header{
+    width: 100%;
+    height: 90px;
+    background-color: #3b5998;
+}
+.logo{
+    width: 50%;
+    height: 90px;
+    float: left;
+}
+.login{
+    width: 50%;
+    height: 90px;
+    padding-top: 10px;
+    float: left;
+}
+.logo_img{
+    height: 52px;
+    width: 213px;
+    margin-left: 170px;
+    margin-top: 28px;
+}
+.login_label{
+    color: #fff;
+    font-size: 11px;
+}
+.login_label2{
+   color: #9cb4d8;
+    text-decoration: none;
+    font-size: 11px;
+}
+.login_controls{
+    margin-left: 115px;
+}
+.sub_btn{
+    background-color:#4267b2 ;
+    color: #fff;
+    border: 1px solid #29487d;
+}
+.body{
+    background: linear-gradient(#fff, #d3d8e8);
+    width: 100%;
+    height: 650px;
+}
+.body1{
+    width: 50%;
+    float: left;
+}
+.body2{
+    width: 50%;
+    float: left;
+}
+.body_para{
+    margin-left: 130px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.body_img{
+    margin-left: 130px;
+    width: 580px;
+    line-height: 0px;
+}
+.body2_label{
+    width: 100%;
+    height: 110px;
+    float: left;
+    line-height: 0px;
+}
+.body_para2{
+    font-weight: 500;
+    font-size: 29px;
+    margin-top: 60px;
+    margin-left: 120px;
+}
+.body_para3{
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 120px;
+}
+.body2_form{
+    width: 100%;
+    height: 150px;
+    float: left;
+}
+.first_name{
+    border: solid 1px silver;
+    border-radius: 5px;
+    margin-left: 120px;
+    width: 186px;
+    font-size: 15px;
+    height: 25px;
+    margin-top: 25px
+}
+.surname{
+    width: 186px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: solid 1px silver;
+}
+.num_email{
+    margin-left: 120px;
+    margin-top: 10px;
+    width: 384px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: solid 1px silver;
+}
+.password{
+    margin-left: 120px;
+    margin-top: 10px;
+    width: 384px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: solid 1px silver;
+}
+.para4{
+    margin-left: 120px;
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 19px;
+}
+.label2{
+    width: 100%;
+    height: 35px;
+    float: left;
+    line-height: 0px;
+}
+.label3{
+    width: 37%;
+    height: 30px;
+    float: left;
+}
+#dob{
+    margin-left: 120px;
+}
+.select{
+    height: 25px;
+}
+.label5{
+    text-decoration: none;
+    color: #3b5998;
+    font-size: 12px;
+}
+.label6{
+    width: 40%;
+    height: 25px;
+    margin-left: 38%;
+    line-height: 12px;
+}
+#radio{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.label7{
+    font-size: 12px;
+    margin-left: 885px;
+}
+.button{
+    margin-left: 885px;
+    background-color: green;
+    color: #fff;
+    border: solid 1px silver;
+    height: 35px;
+    width: 110px;
+    border-radius: 4px;
+    font-weight: bold;
+}
